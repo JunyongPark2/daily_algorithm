@@ -1,4 +1,4 @@
-#  Daily Baekjoon (since 21.01.25)
+#  Daily Algorithm (since 21.01.25)
 
 > Junyong Park 
 
