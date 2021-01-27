@@ -10,5 +10,4 @@ def solution(board, moves):
                     answer += 2
                     del basket[-2:]
                 break
-
     return answer
