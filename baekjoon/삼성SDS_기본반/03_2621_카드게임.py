@@ -38,7 +38,7 @@ def rule3(my_arr):
     if temp[0] == temp[1] == temp[2] and temp[3] == temp[4]:
         return 700 + temp[0]*10 + temp[3]
     elif temp[0] == temp[1] and temp[2] == temp[3] == temp[4]:
-        return 700 + temp[0] + temp[3]*10
+        return 700 + temp[0] + temp[2]*10
     else:
         return False
 
@@ -127,4 +127,4 @@ else:
     temp = []
     for i in range(5):
         temp.append(cards[i][1])
-    print(max(temp))
+    print(100 + max(temp))
