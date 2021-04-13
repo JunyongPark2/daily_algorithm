@@ -24,10 +24,10 @@ def pos_init():
 
 # 현재위치에서 방향을 넣고 이동하는 함수
 def move(r, c, dr, dc):
-    # 이동 칸 수
+    # 이동 칸 수(나중에 겹칠때 대비해서 계산하는거임)
     cnt = 0
     # 다음이 벽이거나 현재가 구멍일때까지 반복
-    while board[r+dr][c+dc] != '#' and board[r][c] != '0':
+    while board[r+dr][c+dc] != '#' and board[r][c] != 'O':
         r += dr
         c += dc
         cnt += 1
@@ -35,6 +35,7 @@ def move(r, c, dr, dc):
 
 def solve():
     pos_init()
+    # BFS
     while queue:
         rr, rc, br, bc, depth = queue.pop(0)
         if depth > 10:
@@ -46,9 +47,9 @@ def solve():
             # 파란 공
             nbr, nbc, bcnt = move(br, bc, dr[i], dc[i])
             # 새로 구한 파란공의 좌표가 구멍이 아니면 (즉 실패조건이 아니면)
-            if board[nbr][nbc] != '0':
+            if board[nbr][nbc] != 'O':
                 # 빨간공의 좌표가 구멍이면 (즉 성공조건)
-                if board[nrr][nrc] == '0':
+                if board[nrr][nrc] == 'O':
                     print(depth)
                     return
                 # 좌표가 겹치면
