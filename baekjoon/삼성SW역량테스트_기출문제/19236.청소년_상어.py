@@ -20,7 +20,6 @@ def fish_position(array, idx):
     return None
 
 def fish_move(array, shark_r, shark_c):
-    position = []
     # 1번 물고기부터 16번 물고기까지
     for idx in range(1, 17):
         position = fish_position(array, idx)
@@ -64,13 +63,6 @@ for row in range(4):
     for col in range(4):
         board[row][col] = [temp[2*col], temp[2*col+1]-1]
 answer = 0
-
-
-
-
-
-
-
-
 backtracking(board, 0, 0, 0)
 print(answer)
+
