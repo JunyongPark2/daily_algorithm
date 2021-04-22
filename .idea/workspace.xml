@@ -14,74 +14,51 @@
     <session id="521803147">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8205" />
+          <entry key="py" value="11009" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="8205" />
+          <entry key="Python" value="11009" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/14888.연산자_끼워넣기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1036">
-              <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-              <folding>
-                <marker date="1618940113060" expanded="true" signature="169:415" ph="..." />
-                <marker date="1618940113060" expanded="true" signature="632:637" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/14889.스타트와_링크.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-              <folding>
-                <marker date="1618941284140" expanded="true" signature="136:141" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/16236.아기_상어.py">
+        <entry file="file://$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/19236.청소년_상어.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="392">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
               <folding>
-                <marker date="1619015015114" expanded="true" signature="300:302" ph="..." />
-                <marker date="1619015015114" expanded="true" signature="320:325" ph="..." />
+                <marker date="1619103195840" expanded="true" signature="373:768" ph="..." />
+                <marker date="1619103195840" expanded="true" signature="825:1474" ph="..." />
+                <marker date="1619103195840" expanded="true" signature="1506:1511" ph="..." />
+                <marker date="1619103195840" expanded="true" signature="1677:1682" ph="..." />
               </folding>
             </state>
           </provider>
@@ -110,6 +87,7 @@
         <option value="$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/14888.연산자_끼워넣기.py" />
         <option value="$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/14889.스타트와_링크.py" />
         <option value="$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/16236.아기_상어.py" />
+        <option value="$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/19236.청소년_상어.py" />
       </list>
     </option>
   </component>
@@ -168,28 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.16236.아기_상어">
-    <configuration name="14502.연구소" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="daily_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/14502.연구소.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.19236.청소년_상어">
     <configuration name="14503.로봇_청소기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,20 +231,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="19236.청소년_상어" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="daily_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/19236.청소년_상어.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.14502.연구소" />
       <item itemvalue="Python.14503.로봇_청소기" />
       <item itemvalue="Python.14888.연산자_끼워넣기" />
       <item itemvalue="Python.14889.스타트와_링크" />
       <item itemvalue="Python.16236.아기_상어" />
+      <item itemvalue="Python.19236.청소년_상어" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.19236.청소년_상어" />
         <item itemvalue="Python.16236.아기_상어" />
         <item itemvalue="Python.14889.스타트와_링크" />
         <item itemvalue="Python.14888.연산자_끼워넣기" />
         <item itemvalue="Python.14503.로봇_청소기" />
-        <item itemvalue="Python.14502.연구소" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +291,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -324,7 +302,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Debug" order="3" visible="true" weight="0.478145" />
+      <window_info anchor="right" id="Debug" order="3" visible="true" weight="0.48347548" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -345,9 +323,25 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="board" language="Python" />
+        <watch expression="fish_list" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>fish_list</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>board</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>min_value</expression-string>
         <language-id>Python</language-id>
@@ -415,7 +409,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/14888.연산자_끼워넣기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1036">
+        <state relative-caret-position="815">
           <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
           <folding>
             <marker date="1618940113060" expanded="true" signature="169:415" ph="..." />
@@ -427,7 +421,7 @@
     <entry file="file://$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/14889.스타트와_링크.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
           <folding>
             <marker date="1618941284140" expanded="true" signature="136:141" ph="..." />
           </folding>
@@ -436,11 +430,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/16236.아기_상어.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="392">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <marker date="1619015015114" expanded="true" signature="300:302" ph="..." />
             <marker date="1619015015114" expanded="true" signature="320:325" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/삼성SW역량테스트_기출문제/19236.청소년_상어.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <marker date="1619103195840" expanded="true" signature="373:768" ph="..." />
+            <marker date="1619103195840" expanded="true" signature="825:1474" ph="..." />
+            <marker date="1619103195840" expanded="true" signature="1506:1511" ph="..." />
+            <marker date="1619103195840" expanded="true" signature="1677:1682" ph="..." />
           </folding>
         </state>
       </provider>
